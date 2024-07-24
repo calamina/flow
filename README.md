@@ -1,5 +1,6 @@
 # Flow
 Minimal theme(s) for Flow Launcher
+Simply get the xaml files you're interested in and drop them into your theme folder :)  
 
 ## Calamina
 ![calamina theme](calamina.png)
